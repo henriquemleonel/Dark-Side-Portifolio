@@ -1,7 +1,6 @@
 <template>
   <body>
-    <div class="wrapper">
-      <!-- ultima versão sem design definido -->
+    <div class="wrapper">git
       <!--------------------- navbar start here ---------------------------------->
       <nav>
         <span id="brand">
